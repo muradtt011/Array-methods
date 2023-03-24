@@ -1,0 +1,15 @@
+/Users/murad/Projects/array/array/bin/Debug/net6.0/array
+/Users/murad/Projects/array/array/bin/Debug/net6.0/array.deps.json
+/Users/murad/Projects/array/array/bin/Debug/net6.0/array.runtimeconfig.json
+/Users/murad/Projects/array/array/bin/Debug/net6.0/array.dll
+/Users/murad/Projects/array/array/bin/Debug/net6.0/array.pdb
+/Users/murad/Projects/array/array/obj/Debug/net6.0/array.csproj.AssemblyReference.cache
+/Users/murad/Projects/array/array/obj/Debug/net6.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/murad/Projects/array/array/obj/Debug/net6.0/array.AssemblyInfoInputs.cache
+/Users/murad/Projects/array/array/obj/Debug/net6.0/array.AssemblyInfo.cs
+/Users/murad/Projects/array/array/obj/Debug/net6.0/array.csproj.CoreCompileInputs.cache
+/Users/murad/Projects/array/array/obj/Debug/net6.0/array.dll
+/Users/murad/Projects/array/array/obj/Debug/net6.0/refint/array.dll
+/Users/murad/Projects/array/array/obj/Debug/net6.0/array.pdb
+/Users/murad/Projects/array/array/obj/Debug/net6.0/array.genruntimeconfig.cache
+/Users/murad/Projects/array/array/obj/Debug/net6.0/ref/array.dll
